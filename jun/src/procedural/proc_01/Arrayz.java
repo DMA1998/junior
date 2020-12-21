@@ -1,4 +1,4 @@
-package proc_01;
+package procedural.proc_01;
 
 import java.util.Arrays;
 
